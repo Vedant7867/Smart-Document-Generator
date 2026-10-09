@@ -1,0 +1,10 @@
+{"timestamp":"00:00:00.859","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:01.758","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:05:43.029","source":"Server","level":"WARN","message":"[Classifier] Attempt 1 failed: fetch failed"}
+{"timestamp":"00:05:43.031","source":"Server","level":"WARN","message":"[Classifier] Retrying in 2 seconds..."}
+{"timestamp":"06:38:12.895","source":"Server","level":"WARN","message":"[Classifier] Attempt 2 failed: fetch failed"}
+{"timestamp":"06:38:12.896","source":"Server","level":"WARN","message":"[Classifier] Retrying in 2 seconds..."}
+{"timestamp":"06:38:14.913","source":"Server","level":"WARN","message":"[Classifier] Attempt 3 failed: fetch failed"}
+{"timestamp":"06:38:14.913","source":"Server","level":"ERROR","message":"[Classifier] Max retries reached. Failing."}
+{"timestamp":"06:38:15.265","source":"Server","level":"ERROR","message":"Extraction failed: TypeError: fetch failed"}
+{"timestamp":"36:02:03.683","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\E:\\\\INCURSION\\\\smart-document-generator\\\\node_modules\\\\zod-validation-error\\\\v4\")."}

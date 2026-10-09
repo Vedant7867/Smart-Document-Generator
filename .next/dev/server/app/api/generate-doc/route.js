@@ -1,0 +1,12 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/generate-doc/route.js")
+R.c("server/chunks/node_modules_next_dist_1rj5amo5n0-f9._.js")
+R.c("server/chunks/node_modules_pdf-lib_es_core_0dbqmv43ax9xc._.js")
+R.c("server/chunks/node_modules_pdf-lib_es_api_1xwc4c0zoj8ai._.js")
+R.c("server/chunks/node_modules_pdf-lib_es_0nf6lneboyjqi._.js")
+R.c("server/chunks/node_modules_1in3uhtnzp_5f._.js")
+R.c("server/chunks/node_modules_@pdf-lib_standard-fonts_es_1gzr7b4vc5f_o._.js")
+R.c("server/chunks/node_modules_07ii-sx4u__lz._.js")
+R.c("server/chunks/[root-of-the-server]__0xhxpnk5jfnpu._.js")
+R.c("server/chunks/_next-internal_server_app_api_generate-doc_route_actions_18uahoi4dujlb.js")
+R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/src/app/api/generate-doc/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/src/app/api/generate-doc/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
